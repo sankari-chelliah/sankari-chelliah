@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sankari-chelliah
-- 👀 I’m interested in Oracle DB Admimistration
-- 🌱 I’m currently learning DB Architecture
-- 💞️ I’m looking to collaborate on DB Concepts
+- 👀 I’m interested in Oracle DB Admimistration, Data Engineering
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on DB Concepts, Python
 - 📫 How to reach me ... email
 
 <!---
